@@ -1,0 +1,9 @@
+moviepy==1.0.3
+openai==1.43.0
+Pillow==10.4.0
+pydantic==2.8.2
+pydub==0.25.1
+torch==2.4.0+cu121
+TTS==0.22.0
+websocket_client==1.8.0
+numpy==1.22.2
