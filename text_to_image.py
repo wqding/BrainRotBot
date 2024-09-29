@@ -13,7 +13,7 @@ from utils import ensure_directory_exists
 
 class TextToImage:
     def __init__(self) -> None:
-        self.server_address = "https://8001-01j8zc370pfp5xtt0n33119ey5.cloudspaces.litng.ai"
+        self.server_address = "127.0.0.1:8188"
         self.client_id = str(uuid.uuid4())
         self.ws = websocket.WebSocket()
         self.ws.connect("ws://{}/ws?clientId={}".format(self.server_address, self.client_id))
@@ -26,7 +26,7 @@ class TextToImage:
         ensure_directory_exists(scene_image_dir)
         
         for prompt in scene.image_prompts:
-            prompt.path = f"{scene_image_dir}/{prompt.start_ms}_{prompt.end_ms}"
+            prompt.path = f"{scene_image_dir}/{prompt.start_ms}_{prompt.end_ms}.png"
             self.generate(prompt.prompt, prompt.path)
 
     def generate(self, prompt_text: str, output_path: str):

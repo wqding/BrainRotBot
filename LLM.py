@@ -25,9 +25,9 @@ Follow these rules:
 '''
 
 client = OpenAI(
-  organization='org-hbiaDN98LaIVi7imbazfaGyX',
-  project='proj_Sp83VX6AM4Zsze0iiSwLcGUv',
-  api_key='sk-proj-2cdNg1xwjx5OkRA26GkWT3BlbkFJXaWVVWsOdWMHZJNAqLIC'
+  organization='',
+  project='',
+  api_key=''
 )
 
 def generate_scenes(story: str):
