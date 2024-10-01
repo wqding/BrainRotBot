@@ -5,3 +5,5 @@ venv/
 output/*
 test.*
 voice_samples/
+
+!output/texts

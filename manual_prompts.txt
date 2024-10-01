@@ -1,0 +1,22 @@
+
+Reformat the following story, split up long chunks of text or combine short sentences into paragraphs, separate each paragraph with "\n<--->\n"
+
+---
+
+Imagine you are a script writer, format the given story based on who is speaking the lines, if a character says something, then the line will be split into two parts, what the character said, and what the narrator says. Follow these rules:
+1. If the speaker's name is not known, simply use a letter of the alphabet (A, B, C, etc...)
+2. KEEP the paragraph formatting "\n<--->\n"
+3. Each speaker should have a newline
+
+Example input: 
+
+“Stephen, can you get in here,” I cried.
+A big dark bruise covered my hip, as If I was assaulted in my sleep with a metal bar.
+“What’s wrong,” Stephen said as he came rushing into the bathroom.
+
+Example output:
+
+A | “Stephen, can you get in here,” I cried. :|
+A | A big dark bruise covered my hip, as If I was assaulted in my sleep with a metal bar. :|
+Stephen | "What’s wrong," :|
+A | Stephen said as he came rushing into the bathroom. :|

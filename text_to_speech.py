@@ -2,7 +2,7 @@ import logging
 
 from constants import OUTPUT_DIR
 from models import Scene
-from utils import concatenate_mp3_files, ensure_directory_exists
+from utils import ensure_directory_exists
 from forced_alignment import ForcedAligner
 from pydub import AudioSegment
 
@@ -38,9 +38,7 @@ class TextToSpeech:
         prev_dialog_end_ms = 0
         ensure_directory_exists(f'{OUTPUT_DIR}/p{scene.id}/audio')
         for dialog in scene.dialogs:
-            audio = AudioSegment.from_wav(dialog.speech_path)
-            duration_ms = len(audio)
-            # dialog.duration_ms = self.generate(voice=SPEAKER_TO_VOICE[dialog.voice], text=dialog.text, output_path=dialog.speech_path)
+            duration_ms = self.generate(voice=SPEAKER_TO_VOICE[dialog.voice], text=dialog.text, output_path=dialog.speech_path)
             
             segments = self.aligner.align(audio_path=dialog.speech_path, text=dialog.text)
             
@@ -49,7 +47,5 @@ class TextToSpeech:
             dialog.end_ms = dialog.start_ms + duration_ms
             
             prev_dialog_end_ms = dialog.end_ms
-        
-        scene.start_ms = scene.dialogs[0].start_ms
-        scene.end_ms = scene.dialogs[-1].end_ms
+
         

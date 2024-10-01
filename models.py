@@ -43,4 +43,3 @@ class Scene(BaseModel):
     speech_path: Optional[str] = None
     start_ms: Optional[int] = 0
     end_ms: Optional[int] = 0
-    # image_file_paths: Optional[List[str]] = []

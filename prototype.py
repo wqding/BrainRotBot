@@ -111,15 +111,24 @@ if __name__ == "__main__":
         process_images(scenes)
         
     elif args.step == 'combine':
-        # if not os.path.exists(GENERATED_SCENES_ALL_PATHS):
-        #     print("Please run the script with the 'image' and 'audio' steps first.")
-        #     sys.exit(1)
+        if not os.path.exists(IMAGE_GENERATED_SCENES_PATH):
+            print("Please run the script with the 'image' and 'audio' steps first.")
+            sys.exit(1)
         
-        scenes = load_scenes_from_json(GENERATED_SCENES_LINES_IMAGES_PATH)
+        scenes = load_scenes_from_json(IMAGE_GENERATED_SCENES_PATH)
         
+        img_paths = []
+        audio_paths = []
+        
+        for scene in scenes:
+            for prompt in scene.image_prompts:
+                img_paths.append(prompt.path) 
+            for dialog in scene.dialogs:
+                audio_paths.append(dialog.speech_path)
+                
         create_video(
-            scene_paths=[scene.image_file_paths for scene in scenes],
-            audio_paths=[scene.speech_file_path for scene in scenes],
+            image_paths=img_paths,
+            audio_paths=audio_paths,
             output_audio_path="final_audio.mp3",
             output_video_path="final.mp4"
         )

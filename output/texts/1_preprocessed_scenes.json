@@ -1,0 +1,400 @@
+[
+  {
+    "id": 0,
+    "script_path": "output/p0/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "B",
+        "text": "\u201cI think today might be the day we get you to open your eyes.\u201d",
+        "speech_path": "output/p0/audio/0_B.wav",
+        "aligned_path": "output/p0/audio/0_B.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I haven't opened my eyes in ten years. My therapist calls it Optopobia, a fear of opening one's eyes. It all started in my teens when I witnessed my parents getting murdered.",
+        "speech_path": "output/p0/audio/1_A.wav",
+        "aligned_path": "output/p0/audio/1_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 1,
+    "script_path": "output/p1/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "My life was no different than a blind person, the only difference is they have no choice in the matter.",
+        "speech_path": "output/p1/audio/0_A.wav",
+        "aligned_path": "output/p1/audio/0_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "But I had to adapt to life as if I was blind. I use a blind stick to get around. I can tell the difference between different coins just by how they sound. I've learned to read Braille, but when people find out I\u2019m not blind, they either think I\u2019m crazy or they think I\u2019m a joke.",
+        "speech_path": "output/p1/audio/1_A.wav",
+        "aligned_path": "output/p1/audio/1_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 2,
+    "script_path": "output/p2/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "It\u2019s hard to describe the constant feeling of being scared.",
+        "speech_path": "output/p2/audio/0_A.wav",
+        "aligned_path": "output/p2/audio/0_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I live in a perpetual state of terror. It\u2019s like closing your eyes to the scary parts of a horror movie, but for me, I kept them closed. I\u2019ve seen many therapists over the years. Some have gotten close to helping me overcome my fear, but there is one major obstacle.",
+        "speech_path": "output/p2/audio/1_A.wav",
+        "aligned_path": "output/p2/audio/1_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I\u2019ve been attending a support group for the past five years, and throughout those years, people would come and go.",
+        "speech_path": "output/p2/audio/2_A.wav",
+        "aligned_path": "output/p2/audio/2_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "Normally, to overcome your fear, you need to face what it is you are scared of. The success rate for this is high, but how can I face my fear if I\u2019m too scared to open my eyes long enough to face it?",
+        "speech_path": "output/p2/audio/3_A.wav",
+        "aligned_path": "output/p2/audio/3_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 3,
+    "script_path": "output/p3/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "I always found my therapist's voice so soothing, and always wondered if the voice matched his face.",
+        "speech_path": "output/p3/audio/0_A.wav",
+        "aligned_path": "output/p3/audio/0_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cI think today you need to explain to me what happened to your parents.\u201d",
+        "speech_path": "output/p3/audio/1_B.wav",
+        "aligned_path": "output/p3/audio/1_B.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I could feel the bile rise from my stomach and my hands began to clam up. I\u2019ve never fully opened up about what happened all those years ago.",
+        "speech_path": "output/p3/audio/2_A.wav",
+        "aligned_path": "output/p3/audio/2_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 4,
+    "script_path": "output/p4/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "\u201cIt was my birthday and my mom had just finished cutting the cake. I\u2019m not sure where it came from or how it got in the house.",
+        "speech_path": "output/p4/audio/0_A.wav",
+        "aligned_path": "output/p4/audio/0_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I watched as it crept up behind my parents. It moved slowly but with murderous intent. A bit like how a lion stalks its prey before it.\u201d",
+        "speech_path": "output/p4/audio/1_A.wav",
+        "aligned_path": "output/p4/audio/1_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cWhat did this creature look like?\u201d",
+        "speech_path": "output/p4/audio/2_B.wav",
+        "aligned_path": "output/p4/audio/2_B.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "\"It's like I have a picture of the creature seared into my brain and I can still see it even with my eyes closed. His eyes were bright red and filled with a murderous hunger,\u201d I explained. My hands were shaking and I could feel beads of sweat roll down my back.",
+        "speech_path": "output/p4/audio/3_A.wav",
+        "aligned_path": "output/p4/audio/3_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cTake your time. I promise you are perfectly safe,\u201d",
+        "speech_path": "output/p4/audio/4_B.wav",
+        "aligned_path": "output/p4/audio/4_B.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "my therapist said in a soft, caring tone.",
+        "speech_path": "output/p4/audio/5_A.wav",
+        "aligned_path": "output/p4/audio/5_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "\u201cIt was frothing at the mouth, and it had teeth and claws that looked like they could rip you apart.\u201d",
+        "speech_path": "output/p4/audio/6_A.wav",
+        "aligned_path": "output/p4/audio/6_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 5,
+    "script_path": "output/p5/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "The sound of my therapist's voice had changed to a more concerning tone.",
+        "speech_path": "output/p5/audio/0_A.wav",
+        "aligned_path": "output/p5/audio/0_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cAre you sure it wasn\u2019t a man and not an animal?\u201d",
+        "speech_path": "output/p5/audio/1_B.wav",
+        "aligned_path": "output/p5/audio/1_B.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "\u201cIt wasn't a man. It was some kind of beast. People don\u2019t move the way the creature moves. And when it was done with my parents, it started to move towards me. I was struck with a paralyzing fear and couldn\u2019t do anything but close my eyes. I wasn\u2019t sure how long I was sitting there, but the police eventually came, and I haven\u2019t opened my eyes since.\u201d",
+        "speech_path": "output/p5/audio/2_A.wav",
+        "aligned_path": "output/p5/audio/2_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I could hear the glide of my therapist's pen as he made notes.",
+        "speech_path": "output/p5/audio/3_A.wav",
+        "aligned_path": "output/p5/audio/3_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 6,
+    "script_path": "output/p6/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "B",
+        "text": "\u201cI believe your phobia is your brain's response to the trauma of what you witnessed. It\u2019s protecting you from having to relive it. Kids process memories differently from adults. And in your case, you saw the murderer as some kind of monster.\u201d",
+        "speech_path": "output/p6/audio/0_B.wav",
+        "aligned_path": "output/p6/audio/0_B.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I could feel a warming sense of calm rise up from my feet, flooding my brain.",
+        "speech_path": "output/p6/audio/1_A.wav",
+        "aligned_path": "output/p6/audio/1_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cI promise you're in a safe environment, and there is no killer or creature in this room,\u201d",
+        "speech_path": "output/p6/audio/2_B.wav",
+        "aligned_path": "output/p6/audio/2_B.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "said my therapist in a reassuring tone.",
+        "speech_path": "output/p6/audio/3_A.wav",
+        "aligned_path": "output/p6/audio/3_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I could feel my heart pound as I slowly began to open my eyes. My therapist had kept the room dark to protect my eyes.",
+        "speech_path": "output/p6/audio/4_A.wav",
+        "aligned_path": "output/p6/audio/4_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "The sensation was probably what a blind person would experience when seeing the world for the first time. My eyes stung as they adjusted to what light was in the room. It took a few moments for my eyes to come into focus before I could see my therapist's soft, reassuring eyes.",
+        "speech_path": "output/p6/audio/5_A.wav",
+        "aligned_path": "output/p6/audio/5_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 7,
+    "script_path": "output/p7/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "I always felt that the creature that killed my parents was close, just waiting for me to open my eyes so I could watch as he ripped me apart.",
+        "speech_path": "output/p7/audio/0_A.wav",
+        "aligned_path": "output/p7/audio/0_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "The fear was still there, but the room was empty apart from me and the therapist.",
+        "speech_path": "output/p7/audio/1_A.wav",
+        "aligned_path": "output/p7/audio/1_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cI told you there was nothing to be scared of.\u201d",
+        "speech_path": "output/p7/audio/2_B.wav",
+        "aligned_path": "output/p7/audio/2_B.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "I was about to rejoice in my newfound sense of sight when I was stopped dead in my tracks by the sound of growling coming from behind my therapist. A sound I had only heard once before when my parents were murdered.",
+        "speech_path": "output/p7/audio/3_A.wav",
+        "aligned_path": "output/p7/audio/3_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 8,
+    "script_path": "output/p8/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "A feeling of intense dread overwhelmed me as I watched the same creature I was confronted with all those years ago creep up behind my therapist.",
+        "speech_path": "output/p8/audio/0_A.wav",
+        "aligned_path": "output/p8/audio/0_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "It had the same red, hungry eyes as before and pounced before I had a chance to warn him.",
+        "speech_path": "output/p8/audio/1_A.wav",
+        "aligned_path": "output/p8/audio/1_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "speaker": "A",
+        "text": "My therapist screamed in the same agonizing pain my parents made as he was ripped apart. When it was done, it trained its sights on me, and before it could get to me, I shut my eyes again.",
+        "speech_path": "output/p8/audio/2_A.wav",
+        "aligned_path": "output/p8/audio/2_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  },
+  {
+    "id": 9,
+    "script_path": "output/p9/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "You see, it's not a fear of opening my eyes. It\u2019s the fear of what would happen if I did.",
+        "speech_path": "output/p9/audio/0_A.wav",
+        "aligned_path": "output/p9/audio/0_A.tsv",
+        "start_ms": 0,
+        "end_ms": 0
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 0
+  }
+]

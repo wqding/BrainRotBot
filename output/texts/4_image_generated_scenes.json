@@ -1,0 +1,1714 @@
+[
+  {
+    "id": 0,
+    "script_path": "output/p0/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "B | 0 | 3340 |  \u201cI think today might be the day we get you to open your eyes.\u201d",
+      "A | 3851 | 5871 |  I haven't opened my eyes in ten years.",
+      "A | 6951 | 9291 |  My therapist calls it Optopobia,",
+      "A | 9991 | 12351 |  a fear of opening one's eyes.",
+      "A | 13131 | 16751 |  It all started in my teens when I witnessed my parents getting murdered."
+    ],
+    "dialogs": [
+      {
+        "speaker": "B",
+        "text": "\u201cI think today might be the day we get you to open your eyes.\u201d",
+        "speech_path": "output/p0/audio/0_B.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 3340,
+            "text": " \u201cI think today might be the day we get you to open your eyes.\u201d"
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 3851
+      },
+      {
+        "speaker": "A",
+        "text": "I haven't opened my eyes in ten years. My therapist calls it Optopobia, a fear of opening one's eyes. It all started in my teens when I witnessed my parents getting murdered.",
+        "speech_path": "output/p0/audio/1_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2020,
+            "text": " I haven't opened my eyes in ten years."
+          },
+          {
+            "start_ms": 3100,
+            "end_ms": 5440,
+            "text": " My therapist calls it Optopobia,"
+          },
+          {
+            "start_ms": 6140,
+            "end_ms": 8500,
+            "text": " a fear of opening one's eyes."
+          },
+          {
+            "start_ms": 9280,
+            "end_ms": 12900,
+            "text": " It all started in my teens when I witnessed my parents getting murdered."
+          }
+        ],
+        "start_ms": 3851,
+        "end_ms": 19288
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 3340,
+        "prompt": "A middle aged man sitting in a therapist chair with a calm demeanor, soft eyes",
+        "path": "output/p0/images/0_3340.png"
+      },
+      {
+        "start_ms": 3851,
+        "end_ms": 5871,
+        "prompt": "A young woman with closed eyes, holding a blind stick, with a tense posture",
+        "path": "output/p0/images/3851_5871.png"
+      },
+      {
+        "start_ms": 6951,
+        "end_ms": 9291,
+        "prompt": "A middle aged man sitting in a therapist chair, facing a young woman with closed eyes, holding a blind stick, with a tense posture",
+        "path": "output/p0/images/6951_9291.png"
+      },
+      {
+        "start_ms": 9991,
+        "end_ms": 12351,
+        "prompt": "A young girl covering her own eyes with her hands, with a tense posture",
+        "path": "output/p0/images/9991_12351.png"
+      },
+      {
+        "start_ms": 13131,
+        "end_ms": 16751,
+        "prompt": "The back of a young girl holding a teddy bear, looking at her parents laying on the ground in a pool of blood",
+        "path": "output/p0/images/13131_16751.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 19288
+  },
+  {
+    "id": 1,
+    "script_path": "output/p1/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "A | 40 | 2260 |  My life was no different than a blind person,",
+      "A | 2840 | 5360 |  the only difference is they have no choice in the matter.",
+      "A | 6081 | 8421 |  But I had to adapt to life as if I was blind.",
+      "A | 9281 | 11181 |  I use a blind stick to get around.",
+      "A | 12621 | 17001 |  I can tell the difference between different coins just by how they sound.",
+      "A | 17681 | 18781 |  I've learned to read Braille,",
+      "A | 19301 | 21101 |  but when people find out I\u2019m not blind,",
+      "A | 21781 | 24621 |  they either think I\u2019m crazy or they think I\u2019m a joke."
+    ],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "My life was no different than a blind person, the only difference is they have no choice in the matter.",
+        "speech_path": "output/p1/audio/0_A.wav",
+        "segments": [
+          {
+            "start_ms": 40,
+            "end_ms": 2260,
+            "text": " My life was no different than a blind person,"
+          },
+          {
+            "start_ms": 2840,
+            "end_ms": 5360,
+            "text": " the only difference is they have no choice in the matter."
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 6081
+      },
+      {
+        "speaker": "A",
+        "text": "But I had to adapt to life as if I was blind. I use a blind stick to get around. I can tell the difference between different coins just by how they sound. I've learned to read Braille, but when people find out I\u2019m not blind, they either think I\u2019m crazy or they think I\u2019m a joke.",
+        "speech_path": "output/p1/audio/1_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2340,
+            "text": " But I had to adapt to life as if I was blind."
+          },
+          {
+            "start_ms": 3200,
+            "end_ms": 5100,
+            "text": " I use a blind stick to get around."
+          },
+          {
+            "start_ms": 6540,
+            "end_ms": 10920,
+            "text": " I can tell the difference between different coins just by how they sound."
+          },
+          {
+            "start_ms": 11600,
+            "end_ms": 12700,
+            "text": " I've learned to read Braille,"
+          },
+          {
+            "start_ms": 13220,
+            "end_ms": 15020,
+            "text": " but when people find out I\u2019m not blind,"
+          },
+          {
+            "start_ms": 15700,
+            "end_ms": 18540,
+            "text": " they either think I\u2019m crazy or they think I\u2019m a joke."
+          }
+        ],
+        "start_ms": 6081,
+        "end_ms": 25241
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 40,
+        "end_ms": 2260,
+        "prompt": "A blind person",
+        "path": "output/p1/images/40_2260.png"
+      },
+      {
+        "start_ms": 2840,
+        "end_ms": 5360,
+        "prompt": "A blind person",
+        "path": "output/p1/images/2840_5360.png"
+      },
+      {
+        "start_ms": 6081,
+        "end_ms": 8421,
+        "prompt": "A young girl with her eyes closed, reading a book",
+        "path": "output/p1/images/6081_8421.png"
+      },
+      {
+        "start_ms": 9281,
+        "end_ms": 11181,
+        "prompt": "A young girl with her eyes closed, holding a blind stick",
+        "path": "output/p1/images/9281_11181.png"
+      },
+      {
+        "start_ms": 12621,
+        "end_ms": 17001,
+        "prompt": "Scattered coins",
+        "path": "output/p1/images/12621_17001.png"
+      },
+      {
+        "start_ms": 17681,
+        "end_ms": 18781,
+        "prompt": "A young girl with her eyes closed, reading Braille",
+        "path": "output/p1/images/17681_18781.png"
+      },
+      {
+        "start_ms": 19301,
+        "end_ms": 21101,
+        "prompt": "Two kids whispering to each other",
+        "path": "output/p1/images/19301_21101.png"
+      },
+      {
+        "start_ms": 21781,
+        "end_ms": 24621,
+        "prompt": "A young girl with her eyes closed, surrounded by a group of kids pointing a her",
+        "path": "output/p1/images/21781_24621.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 25241
+  },
+  {
+    "id": 2,
+    "script_path": "output/p2/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "A | 0 | 3080 |  It\u2019s hard to describe the constant feeling of being scared.",
+      "A | 3798 | 5958 |  I live in a perpetual state of terror.",
+      "A | 6878 | 11078 |  It\u2019s like closing your eyes to the scary parts of a horror movie,",
+      "A | 12018 | 12558 |  but for me,",
+      "A | 13258 | 14438 |  I kept them closed.",
+      "A | 15138 | 16958 |  I\u2019ve seen many therapists over the years.",
+      "A | 18118 | 21178 |  Some have gotten close to helping me overcome my fear,",
+      "A | 21938 | 23658 |  but there is one major obstacle.",
+      "A | 24398 | 27318 |  I\u2019ve been attending a support group for the past five years,",
+      "A | 27938 | 29018 |  and throughout those years,",
+      "A | 29438 | 30458 |  people would come and go.",
+      "A | 31292 | 31652 |  Normally,",
+      "A | 32232 | 33352 |  to overcome your fear,",
+      "A | 33572 | 35672 |  you need to face what it is you are scared of.",
+      "A | 36232 | 37852 |  The success rate for this is high,",
+      "A | 38752 | 44172 |  but how can I face my fear if I\u2019m too scared to open my eyes long enough to face it?"
+    ],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "It\u2019s hard to describe the constant feeling of being scared.",
+        "speech_path": "output/p2/audio/0_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 3080,
+            "text": " It\u2019s hard to describe the constant feeling of being scared."
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 3798
+      },
+      {
+        "speaker": "A",
+        "text": "I live in a perpetual state of terror. It\u2019s like closing your eyes to the scary parts of a horror movie, but for me, I kept them closed. I\u2019ve seen many therapists over the years. Some have gotten close to helping me overcome my fear, but there is one major obstacle.",
+        "speech_path": "output/p2/audio/1_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2160,
+            "text": " I live in a perpetual state of terror."
+          },
+          {
+            "start_ms": 3080,
+            "end_ms": 7280,
+            "text": " It\u2019s like closing your eyes to the scary parts of a horror movie,"
+          },
+          {
+            "start_ms": 8220,
+            "end_ms": 8760,
+            "text": " but for me,"
+          },
+          {
+            "start_ms": 9460,
+            "end_ms": 10640,
+            "text": " I kept them closed."
+          },
+          {
+            "start_ms": 11340,
+            "end_ms": 13160,
+            "text": " I\u2019ve seen many therapists over the years."
+          },
+          {
+            "start_ms": 14320,
+            "end_ms": 17380,
+            "text": " Some have gotten close to helping me overcome my fear,"
+          },
+          {
+            "start_ms": 18140,
+            "end_ms": 19860,
+            "text": " but there is one major obstacle."
+          }
+        ],
+        "start_ms": 3798,
+        "end_ms": 24398
+      },
+      {
+        "speaker": "A",
+        "text": "I\u2019ve been attending a support group for the past five years, and throughout those years, people would come and go.",
+        "speech_path": "output/p2/audio/2_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2920,
+            "text": " I\u2019ve been attending a support group for the past five years,"
+          },
+          {
+            "start_ms": 3540,
+            "end_ms": 4620,
+            "text": " and throughout those years,"
+          },
+          {
+            "start_ms": 5040,
+            "end_ms": 6060,
+            "text": " people would come and go."
+          }
+        ],
+        "start_ms": 24398,
+        "end_ms": 31172
+      },
+      {
+        "speaker": "A",
+        "text": "Normally, to overcome your fear, you need to face what it is you are scared of. The success rate for this is high, but how can I face my fear if I\u2019m too scared to open my eyes long enough to face it?",
+        "speech_path": "output/p2/audio/3_A.wav",
+        "segments": [
+          {
+            "start_ms": 120,
+            "end_ms": 480,
+            "text": " Normally,"
+          },
+          {
+            "start_ms": 1060,
+            "end_ms": 2180,
+            "text": " to overcome your fear,"
+          },
+          {
+            "start_ms": 2400,
+            "end_ms": 4500,
+            "text": " you need to face what it is you are scared of."
+          },
+          {
+            "start_ms": 5060,
+            "end_ms": 6680,
+            "text": " The success rate for this is high,"
+          },
+          {
+            "start_ms": 7580,
+            "end_ms": 13000,
+            "text": " but how can I face my fear if I\u2019m too scared to open my eyes long enough to face it?"
+          }
+        ],
+        "start_ms": 31172,
+        "end_ms": 44805
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 3080,
+        "prompt": "A young woman with closed eyes and scared expression, holding a blind stick, in a tense posture",
+        "path": "output/p2/images/0_3080.png"
+      },
+      {
+        "start_ms": 3798,
+        "end_ms": 5958,
+        "prompt": "A young girl sitting in with her knees up to her chest, holding hands over her eyes, with a scared expression",
+        "path": "output/p2/images/3798_5958.png"
+      },
+      {
+        "start_ms": 6878,
+        "end_ms": 11078,
+        "prompt": "Ghostface, the villain from Scary Movie",
+        "path": "output/p2/images/6878_11078.png"
+      },
+      {
+        "start_ms": 12018,
+        "end_ms": 12558,
+        "prompt": "TEXT",
+        "path": "output/p2/images/12018_12558.png"
+      },
+      {
+        "start_ms": 13258,
+        "end_ms": 14438,
+        "prompt": "TEXT",
+        "path": "output/p2/images/13258_14438.png"
+      },
+      {
+        "start_ms": 15138,
+        "end_ms": 16958,
+        "prompt": "A young woman with closed eyes, surrounded by a group of doctors.",
+        "path": "output/p2/images/15138_16958.png"
+      },
+      {
+        "start_ms": 18118,
+        "end_ms": 21178,
+        "prompt": "TEXT",
+        "path": "output/p2/images/18118_21178.png"
+      },
+      {
+        "start_ms": 21938,
+        "end_ms": 23658,
+        "prompt": "A young woman with closed eyes, facing a large insurmountable wall",
+        "path": "output/p2/images/21938_23658.png"
+      },
+      {
+        "start_ms": 24398,
+        "end_ms": 27318,
+        "prompt": "A young woman with closed eyes, sitting with other people in a circle",
+        "path": "output/p2/images/24398_27318.png"
+      },
+      {
+        "start_ms": 27938,
+        "end_ms": 29018,
+        "prompt": "A calendar with days crossed out",
+        "path": "output/p2/images/27938_29018.png"
+      },
+      {
+        "start_ms": 29438,
+        "end_ms": 30458,
+        "prompt": "People walkng in and out of a room",
+        "path": "output/p2/images/29438_30458.png"
+      },
+      {
+        "start_ms": 31292,
+        "end_ms": 31652,
+        "prompt": "TEXT",
+        "path": "output/p2/images/31292_31652.png"
+      },
+      {
+        "start_ms": 32232,
+        "end_ms": 33352,
+        "prompt": "A man standing in front of a ferocious lion",
+        "path": "output/p2/images/32232_33352.png"
+      },
+      {
+        "start_ms": 33572,
+        "end_ms": 35672,
+        "prompt": "TEXT",
+        "path": "output/p2/images/33572_35672.png"
+      },
+      {
+        "start_ms": 36232,
+        "end_ms": 37852,
+        "prompt": "TEXT",
+        "path": "output/p2/images/36232_37852.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 44805
+  },
+  {
+    "id": 3,
+    "script_path": "output/p3/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "A | 0 | 2800 |  I always found my therapist's voice so soothing,",
+      "A | 3640 | 6420 |  and always wondered if the voice matched his face.",
+      "B | 7094 | 10474 |  \u201cI think today you need to explain to me what happened to your parents.\u201d",
+      "A | 10988 | 13788 |  I could feel the bile rise from my stomach",
+      "A | 14788 | 16508 |  and my hands began to clam up.",
+      "A | 17108 | 20908 |  I\u2019ve never fully opened up about what happened all those years ago."
+    ],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "I always found my therapist's voice so soothing, and always wondered if the voice matched his face.",
+        "speech_path": "output/p3/audio/0_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2800,
+            "text": " I always found my therapist's voice so soothing,"
+          },
+          {
+            "start_ms": 3640,
+            "end_ms": 6420,
+            "text": " and always wondered if the voice matched his face."
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 7094
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cI think today you need to explain to me what happened to your parents.\u201d",
+        "speech_path": "output/p3/audio/1_B.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 3380,
+            "text": " \u201cI think today you need to explain to me what happened to your parents.\u201d"
+          }
+        ],
+        "start_ms": 7094,
+        "end_ms": 10988
+      },
+      {
+        "speaker": "A",
+        "text": "I could feel the bile rise from my stomach and my hands began to clam up. I\u2019ve never fully opened up about what happened all those years ago.",
+        "speech_path": "output/p3/audio/2_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2800,
+            "text": " I could feel the bile rise from my stomach"
+          },
+          {
+            "start_ms": 3800,
+            "end_ms": 5520,
+            "text": " and my hands began to clam up."
+          },
+          {
+            "start_ms": 6120,
+            "end_ms": 9920,
+            "text": " I\u2019ve never fully opened up about what happened all those years ago."
+          }
+        ],
+        "start_ms": 10988,
+        "end_ms": 27181
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 2800,
+        "prompt": "A middle aged therapist man, sitting in an armchair",
+        "path": "output/p3/images/0_2800.png"
+      },
+      {
+        "start_ms": 3640,
+        "end_ms": 6420,
+        "prompt": "A middle aged therapist man, sitting in an armchair with a speech bubble pointing to him",
+        "path": "output/p3/images/3640_6420.png"
+      },
+      {
+        "start_ms": 7094,
+        "end_ms": 10474,
+        "prompt": "A young girl holding a teddy bear standing in front of a man and a woman lying on the ground, in a pool of blood",
+        "path": "output/p3/images/7094_10474.png"
+      },
+      {
+        "start_ms": 10988,
+        "end_ms": 13788,
+        "prompt": "A young woman with her eyes closed, looking nervous",
+        "path": "output/p3/images/10988_13788.png"
+      },
+      {
+        "start_ms": 14788,
+        "end_ms": 16508,
+        "prompt": "A person's hands clasped together into a fist",
+        "path": "output/p3/images/14788_16508.png"
+      },
+      {
+        "start_ms": 17108,
+        "end_ms": 20908,
+        "prompt": "A young woman with her eyes closed, a tear running down her face",
+        "path": "output/p3/images/17108_20908.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 27181
+  },
+  {
+    "id": 4,
+    "script_path": "output/p4/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "A | 0 | 2680 |  \u201cIt was my birthday and my mom had just finished cutting the cake.",
+      "A | 3380 | 6560 |  I\u2019m not sure where it came from or how it got in the house.",
+      "A | 7415 | 9935 |  I watched as it crept up behind my parents.",
+      "A | 10815 | 14815 |  It moved slowly but with murderous intent.",
+      "A | 15735 | 20085 |  A bit like how a lion stalks its prey before it.\u201d",
+      "B | 22383 | 23963 |  \u201cWhat did this creature look like?\u201d",
+      "A | 24620 | 27480 |  \"It's like I have a picture of the creature seared into my brain",
+      "A | 28380 | 31640 |  and I can still see it even with my eyes closed.",
+      "A | 32500 | 36080 |  His eyes were bright red and filled with a murderous hunger,\u201d",
+      "A | 37160 | 37660 |  I explained.",
+      "A | 38460 | 42460 |  My hands were shaking and I could feel beads of sweat roll down my back.",
+      "B | 44925 | 45585 |  \u201cTake your time.",
+      "B | 46485 | 48045 |  I promise you are perfectly safe,\u201d",
+      "A | 48638 | 51098 |  my therapist said in a soft,",
+      "A | 51558 | 52458 |  caring tone.",
+      "A | 57311 | 58531 |  \u201cIt was frothing at the mouth,",
+      "A | 59011 | 62371 |  and it had teeth and claws that looked like they could rip you apart.\u201d"
+    ],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "\u201cIt was my birthday and my mom had just finished cutting the cake. I\u2019m not sure where it came from or how it got in the house.",
+        "speech_path": "output/p4/audio/0_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2680,
+            "text": " \u201cIt was my birthday and my mom had just finished cutting the cake."
+          },
+          {
+            "start_ms": 3380,
+            "end_ms": 6560,
+            "text": " I\u2019m not sure where it came from or how it got in the house."
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 7415
+      },
+      {
+        "speaker": "A",
+        "text": "I watched as it crept up behind my parents. It moved slowly but with murderous intent. A bit like how a lion stalks its prey before it.\u201d",
+        "speech_path": "output/p4/audio/1_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2520,
+            "text": " I watched as it crept up behind my parents."
+          },
+          {
+            "start_ms": 3400,
+            "end_ms": 7400,
+            "text": " It moved slowly but with murderous intent."
+          },
+          {
+            "start_ms": 8320,
+            "end_ms": 12670,
+            "text": " A bit like how a lion stalks its prey before it.\u201d"
+          }
+        ],
+        "start_ms": 7415,
+        "end_ms": 22383
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cWhat did this creature look like?\u201d",
+        "speech_path": "output/p4/audio/2_B.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 1580,
+            "text": " \u201cWhat did this creature look like?\u201d"
+          }
+        ],
+        "start_ms": 22383,
+        "end_ms": 24560
+      },
+      {
+        "speaker": "A",
+        "text": "\"It's like I have a picture of the creature seared into my brain and I can still see it even with my eyes closed. His eyes were bright red and filled with a murderous hunger,\u201d I explained. My hands were shaking and I could feel beads of sweat roll down my back.",
+        "speech_path": "output/p4/audio/3_A.wav",
+        "segments": [
+          {
+            "start_ms": 60,
+            "end_ms": 2920,
+            "text": " \"It's like I have a picture of the creature seared into my brain"
+          },
+          {
+            "start_ms": 3820,
+            "end_ms": 7080,
+            "text": " and I can still see it even with my eyes closed."
+          },
+          {
+            "start_ms": 7940,
+            "end_ms": 11520,
+            "text": " His eyes were bright red and filled with a murderous hunger,\u201d"
+          },
+          {
+            "start_ms": 12600,
+            "end_ms": 13100,
+            "text": " I explained."
+          },
+          {
+            "start_ms": 13900,
+            "end_ms": 17900,
+            "text": " My hands were shaking and I could feel beads of sweat roll down my back."
+          }
+        ],
+        "start_ms": 24560,
+        "end_ms": 44925
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cTake your time. I promise you are perfectly safe,\u201d",
+        "speech_path": "output/p4/audio/4_B.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 660,
+            "text": " \u201cTake your time."
+          },
+          {
+            "start_ms": 1560,
+            "end_ms": 3120,
+            "text": " I promise you are perfectly safe,\u201d"
+          }
+        ],
+        "start_ms": 44925,
+        "end_ms": 48638
+      },
+      {
+        "speaker": "A",
+        "text": "my therapist said in a soft, caring tone.",
+        "speech_path": "output/p4/audio/5_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2460,
+            "text": " my therapist said in a soft,"
+          },
+          {
+            "start_ms": 2920,
+            "end_ms": 3820,
+            "text": " caring tone."
+          }
+        ],
+        "start_ms": 48638,
+        "end_ms": 57311
+      },
+      {
+        "speaker": "A",
+        "text": "\u201cIt was frothing at the mouth, and it had teeth and claws that looked like they could rip you apart.\u201d",
+        "speech_path": "output/p4/audio/6_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 1220,
+            "text": " \u201cIt was frothing at the mouth,"
+          },
+          {
+            "start_ms": 1700,
+            "end_ms": 5060,
+            "text": " and it had teeth and claws that looked like they could rip you apart.\u201d"
+          }
+        ],
+        "start_ms": 57311,
+        "end_ms": 62922
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 2680,
+        "prompt": "A young girl sitting at a table with a birthday cake on the table",
+        "path": "output/p4/images/0_2680.png"
+      },
+      {
+        "start_ms": 3380,
+        "end_ms": 6560,
+        "prompt": "Footprints on the ground leading into a house",
+        "path": "output/p4/images/3380_6560.png"
+      },
+      {
+        "start_ms": 7415,
+        "end_ms": 9935,
+        "prompt": "A tall shadow monster looming behind a young woman and young man",
+        "path": "output/p4/images/7415_9935.png"
+      },
+      {
+        "start_ms": 10815,
+        "end_ms": 14815,
+        "prompt": "A tall shadow monster looming behind a young woman and young man",
+        "path": "output/p4/images/10815_14815.png"
+      },
+      {
+        "start_ms": 15735,
+        "end_ms": 20085,
+        "prompt": "A lion hiding in the bushes",
+        "path": "output/p4/images/15735_20085.png"
+      },
+      {
+        "start_ms": 22383,
+        "end_ms": 23963,
+        "prompt": "A middle aged man in smart casual clothes, sitting in a armchair with a notebook",
+        "path": "output/p4/images/22383_23963.png"
+      },
+      {
+        "start_ms": 24620,
+        "end_ms": 27480,
+        "prompt": "A young woman sitting in a therapist office with closed eyes, blind stick, tense posture",
+        "path": "output/p4/images/24620_27480.png"
+      },
+      {
+        "start_ms": 28380,
+        "end_ms": 31640,
+        "prompt": "TEXT",
+        "path": "output/p4/images/28380_31640.png"
+      },
+      {
+        "start_ms": 32500,
+        "end_ms": 36080,
+        "prompt": "A shadow monster with bright red eyes",
+        "path": "output/p4/images/32500_36080.png"
+      },
+      {
+        "start_ms": 37160,
+        "end_ms": 37660,
+        "prompt": "TEXT",
+        "path": "output/p4/images/37160_37660.png"
+      },
+      {
+        "start_ms": 38460,
+        "end_ms": 42460,
+        "prompt": "A middle aged man sitting in an armchair with a notebook",
+        "path": "output/p4/images/38460_42460.png"
+      },
+      {
+        "start_ms": 44925,
+        "end_ms": 45585,
+        "prompt": "TEXT",
+        "path": "output/p4/images/44925_45585.png"
+      },
+      {
+        "start_ms": 46485,
+        "end_ms": 48045,
+        "prompt": "TEXT",
+        "path": "output/p4/images/46485_48045.png"
+      },
+      {
+        "start_ms": 48638,
+        "end_ms": 51098,
+        "prompt": "TEXT",
+        "path": "output/p4/images/48638_51098.png"
+      },
+      {
+        "start_ms": 51558,
+        "end_ms": 52458,
+        "prompt": "TEXT",
+        "path": "output/p4/images/51558_52458.png"
+      },
+      {
+        "start_ms": 57311,
+        "end_ms": 58531,
+        "prompt": "A shadowy monster with bright red eyes and sharp teeth",
+        "path": "output/p4/images/57311_58531.png"
+      },
+      {
+        "start_ms": 59011,
+        "end_ms": 62371,
+        "prompt": "Close up of a shadowy monster's sharp claws",
+        "path": "output/p4/images/59011_62371.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 62922
+  },
+  {
+    "id": 5,
+    "script_path": "output/p5/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "A | 0 | 4580 |  The sound of my therapist's voice had changed to a more concerning tone.",
+      "B | 10443 | 14163 |  \u201cAre you sure it wasn\u2019t a man and not an animal?\u201d",
+      "A | 14710 | 15610 |  \u201cIt wasn't a man.",
+      "A | 16210 | 17350 |  It was some kind of beast.",
+      "A | 18310 | 20230 |  People don\u2019t move the way the creature moves.",
+      "A | 21050 | 22710 |  And when it was done with my parents,",
+      "A | 23210 | 24750 |  it started to move towards me.",
+      "A | 25590 | 30530 |  I was struck with a paralyzing fear and couldn\u2019t do anything but close my eyes.",
+      "A | 31490 | 33870 |  I wasn\u2019t sure how long I was sitting there,",
+      "A | 34430 | 36050 |  but the police eventually came,",
+      "A | 36650 | 38590 |  and I haven\u2019t opened my eyes since.\u201d",
+      "A | 39319 | 43459 |  I could hear the glide of my therapist's pen as he made notes."
+    ],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "The sound of my therapist's voice had changed to a more concerning tone.",
+        "speech_path": "output/p5/audio/0_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 4580,
+            "text": " The sound of my therapist's voice had changed to a more concerning tone."
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 10443
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cAre you sure it wasn\u2019t a man and not an animal?\u201d",
+        "speech_path": "output/p5/audio/1_B.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 3720,
+            "text": " \u201cAre you sure it wasn\u2019t a man and not an animal?\u201d"
+          }
+        ],
+        "start_ms": 10443,
+        "end_ms": 14710
+      },
+      {
+        "speaker": "A",
+        "text": "\u201cIt wasn't a man. It was some kind of beast. People don\u2019t move the way the creature moves. And when it was done with my parents, it started to move towards me. I was struck with a paralyzing fear and couldn\u2019t do anything but close my eyes. I wasn\u2019t sure how long I was sitting there, but the police eventually came, and I haven\u2019t opened my eyes since.\u201d",
+        "speech_path": "output/p5/audio/2_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 900,
+            "text": " \u201cIt wasn't a man."
+          },
+          {
+            "start_ms": 1500,
+            "end_ms": 2640,
+            "text": " It was some kind of beast."
+          },
+          {
+            "start_ms": 3600,
+            "end_ms": 5520,
+            "text": " People don\u2019t move the way the creature moves."
+          },
+          {
+            "start_ms": 6340,
+            "end_ms": 8000,
+            "text": " And when it was done with my parents,"
+          },
+          {
+            "start_ms": 8500,
+            "end_ms": 10040,
+            "text": " it started to move towards me."
+          },
+          {
+            "start_ms": 10880,
+            "end_ms": 15820,
+            "text": " I was struck with a paralyzing fear and couldn\u2019t do anything but close my eyes."
+          },
+          {
+            "start_ms": 16780,
+            "end_ms": 19160,
+            "text": " I wasn\u2019t sure how long I was sitting there,"
+          },
+          {
+            "start_ms": 19720,
+            "end_ms": 21340,
+            "text": " but the police eventually came,"
+          },
+          {
+            "start_ms": 21940,
+            "end_ms": 23880,
+            "text": " and I haven\u2019t opened my eyes since.\u201d"
+          }
+        ],
+        "start_ms": 14710,
+        "end_ms": 39319
+      },
+      {
+        "speaker": "A",
+        "text": "I could hear the glide of my therapist's pen as he made notes.",
+        "speech_path": "output/p5/audio/3_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 4140,
+            "text": " I could hear the glide of my therapist's pen as he made notes."
+          }
+        ],
+        "start_ms": 39319,
+        "end_ms": 44280
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 4580,
+        "prompt": "A young woman sitting in a therapist's office, holding a blind stick, with closed eyes and a tense posture, listening to a therapist",
+        "path": "output/p5/images/0_4580.png"
+      },
+      {
+        "start_ms": 10443,
+        "end_ms": 14163,
+        "prompt": "A middle-aged therapist man with a concerned look, sitting in an armchair, talking",
+        "path": "output/p5/images/10443_14163.png"
+      },
+      {
+        "start_ms": 14710,
+        "end_ms": 15610,
+        "prompt": "A young woman with closed eyes, shaking her head",
+        "path": "output/p5/images/14710_15610.png"
+      },
+      {
+        "start_ms": 16210,
+        "end_ms": 17350,
+        "prompt": "A shadowy beast in a dark room",
+        "path": "output/p5/images/16210_17350.png"
+      },
+      {
+        "start_ms": 18310,
+        "end_ms": 20230,
+        "prompt": "A dark, shadowy beast moving in a way that defies human movement",
+        "path": "output/p5/images/18310_20230.png"
+      },
+      {
+        "start_ms": 21050,
+        "end_ms": 22710,
+        "prompt": "A young girl looking at her parents, lying motionless on the floor, as a dark beast looms over them",
+        "path": "output/p5/images/21050_22710.png"
+      },
+      {
+        "start_ms": 23210,
+        "end_ms": 24750,
+        "prompt": "The shadowy beast turning to face a young girl",
+        "path": "output/p5/images/23210_24750.png"
+      },
+      {
+        "start_ms": 25590,
+        "end_ms": 30530,
+        "prompt": "A young girl sitting frozen in fear, closing her eyes tightly as a shadowy figure approaches",
+        "path": "output/p5/images/25590_30530.png"
+      },
+      {
+        "start_ms": 31490,
+        "end_ms": 33870,
+        "prompt": "A young girl sitting in the dark with her eyes closed, time passing, the atmosphere tense",
+        "path": "output/p5/images/31490_33870.png"
+      },
+      {
+        "start_ms": 34430,
+        "end_ms": 36050,
+        "prompt": "Police officers entering a dark room",
+        "path": "output/p5/images/34430_36050.png"
+      },
+      {
+        "start_ms": 36650,
+        "end_ms": 38590,
+        "prompt": "A young girl sitting with her eyes closed, holding a blind stick, as police surround her",
+        "path": "output/p5/images/36650_38590.png"
+      },
+      {
+        "start_ms": 39319,
+        "end_ms": 43459,
+        "prompt": "A close-up of a middle-aged man, the therapist, writing notes with a pen",
+        "path": "output/p5/images/39319_43459.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 44280
+  },
+  {
+    "id": 6,
+    "script_path": "output/p6/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "B | 0 | 4100 |  \u201cI believe your phobia is your brain's response to the trauma of what you witnessed.",
+      "B | 5000 | 7020 |  It\u2019s protecting you from having to relive it.",
+      "B | 7760 | 9920 |  Kids process memories differently from adults.",
+      "B | 10880 | 11640 |  And in your case,",
+      "B | 12100 | 14140 |  you saw the murderer as some kind of monster.\u201d",
+      "A | 14710 | 17850 |  I could feel a warming sense of calm rise up from my feet,",
+      "A | 18550 | 19170 |  flooding my brain.",
+      "B | 21303 | 22903 |  \u201cI promise you're in a safe environment,",
+      "B | 23623 | 26083 |  and there is no killer or creature in this room,\u201d",
+      "A | 26657 | 29257 |  said my therapist in a reassuring tone.",
+      "A | 34574 | 38954 |  I could feel my heart pound as I slowly began to open my eyes.",
+      "A | 39714 | 43114 |  My therapist had kept the room dark to protect my eyes.",
+      "A | 43994 | 47354 |  The sensation was probably what a blind person would experience",
+      "A | 47954 | 50254 |  when seeing the world for the first time.",
+      "A | 50934 | 53894 |  My eyes stung as they adjusted to what light was in the room.",
+      "A | 55274 | 61214 |  It took a few moments for my eyes to come into focus before I could see my therapist's soft,",
+      "A | 62034 | 63094 |  reassuring eyes."
+    ],
+    "dialogs": [
+      {
+        "speaker": "B",
+        "text": "\u201cI believe your phobia is your brain's response to the trauma of what you witnessed. It\u2019s protecting you from having to relive it. Kids process memories differently from adults. And in your case, you saw the murderer as some kind of monster.\u201d",
+        "speech_path": "output/p6/audio/0_B.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 4100,
+            "text": " \u201cI believe your phobia is your brain's response to the trauma of what you witnessed."
+          },
+          {
+            "start_ms": 5000,
+            "end_ms": 7020,
+            "text": " It\u2019s protecting you from having to relive it."
+          },
+          {
+            "start_ms": 7760,
+            "end_ms": 9920,
+            "text": " Kids process memories differently from adults."
+          },
+          {
+            "start_ms": 10880,
+            "end_ms": 11640,
+            "text": " And in your case,"
+          },
+          {
+            "start_ms": 12100,
+            "end_ms": 14140,
+            "text": " you saw the murderer as some kind of monster.\u201d"
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 14710
+      },
+      {
+        "speaker": "A",
+        "text": "I could feel a warming sense of calm rise up from my feet, flooding my brain.",
+        "speech_path": "output/p6/audio/1_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 3140,
+            "text": " I could feel a warming sense of calm rise up from my feet,"
+          },
+          {
+            "start_ms": 3840,
+            "end_ms": 4460,
+            "text": " flooding my brain."
+          }
+        ],
+        "start_ms": 14710,
+        "end_ms": 21303
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cI promise you're in a safe environment, and there is no killer or creature in this room,\u201d",
+        "speech_path": "output/p6/audio/2_B.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 1600,
+            "text": " \u201cI promise you're in a safe environment,"
+          },
+          {
+            "start_ms": 2320,
+            "end_ms": 4780,
+            "text": " and there is no killer or creature in this room,\u201d"
+          }
+        ],
+        "start_ms": 21303,
+        "end_ms": 26637
+      },
+      {
+        "speaker": "A",
+        "text": "said my therapist in a reassuring tone.",
+        "speech_path": "output/p6/audio/3_A.wav",
+        "segments": [
+          {
+            "start_ms": 20,
+            "end_ms": 2620,
+            "text": " said my therapist in a reassuring tone."
+          }
+        ],
+        "start_ms": 26637,
+        "end_ms": 34574
+      },
+      {
+        "speaker": "A",
+        "text": "I could feel my heart pound as I slowly began to open my eyes. My therapist had kept the room dark to protect my eyes.",
+        "speech_path": "output/p6/audio/4_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 4380,
+            "text": " I could feel my heart pound as I slowly began to open my eyes."
+          },
+          {
+            "start_ms": 5140,
+            "end_ms": 8540,
+            "text": " My therapist had kept the room dark to protect my eyes."
+          }
+        ],
+        "start_ms": 34574,
+        "end_ms": 43994
+      },
+      {
+        "speaker": "A",
+        "text": "The sensation was probably what a blind person would experience when seeing the world for the first time. My eyes stung as they adjusted to what light was in the room. It took a few moments for my eyes to come into focus before I could see my therapist's soft, reassuring eyes.",
+        "speech_path": "output/p6/audio/5_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 3360,
+            "text": " The sensation was probably what a blind person would experience"
+          },
+          {
+            "start_ms": 3960,
+            "end_ms": 6260,
+            "text": " when seeing the world for the first time."
+          },
+          {
+            "start_ms": 6940,
+            "end_ms": 9900,
+            "text": " My eyes stung as they adjusted to what light was in the room."
+          },
+          {
+            "start_ms": 11280,
+            "end_ms": 17220,
+            "text": " It took a few moments for my eyes to come into focus before I could see my therapist's soft,"
+          },
+          {
+            "start_ms": 18040,
+            "end_ms": 19100,
+            "text": " reassuring eyes."
+          }
+        ],
+        "start_ms": 43994,
+        "end_ms": 63943
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 4100,
+        "prompt": "A middle-aged therapist man sitting in an armchair, speaking in a calm tone",
+        "path": "output/p6/images/0_4100.png"
+      },
+      {
+        "start_ms": 5000,
+        "end_ms": 7020,
+        "prompt": "A middle-aged therapist man speaking calmly, gesturing slightly",
+        "path": "output/p6/images/5000_7020.png"
+      },
+      {
+        "start_ms": 7760,
+        "end_ms": 9920,
+        "prompt": "A middle-aged therapist man explaining something with a gentle expression",
+        "path": "output/p6/images/7760_9920.png"
+      },
+      {
+        "start_ms": 10880,
+        "end_ms": 11640,
+        "prompt": "TEXT",
+        "path": "output/p6/images/10880_11640.png"
+      },
+      {
+        "start_ms": 12100,
+        "end_ms": 14140,
+        "prompt": "A dark shadowy figure resembling a monster",
+        "path": "output/p6/images/12100_14140.png"
+      },
+      {
+        "start_ms": 14710,
+        "end_ms": 17850,
+        "prompt": "A young woman sitting in a chair with closed eyes, feeling calm, holding a blind stick",
+        "path": "output/p6/images/14710_17850.png"
+      },
+      {
+        "start_ms": 18550,
+        "end_ms": 19170,
+        "prompt": "TEXT",
+        "path": "output/p6/images/18550_19170.png"
+      },
+      {
+        "start_ms": 21303,
+        "end_ms": 22903,
+        "prompt": "A middle-aged therapist man, speaking calmly, with soft eyes",
+        "path": "output/p6/images/21303_22903.png"
+      },
+      {
+        "start_ms": 23623,
+        "end_ms": 26083,
+        "prompt": "A middle-aged therapist man, gesturing gently in a reassuring way",
+        "path": "output/p6/images/23623_26083.png"
+      },
+      {
+        "start_ms": 26657,
+        "end_ms": 29257,
+        "prompt": "A middle-aged therapist man speaking with a calm expression, seated across from a young woman with closed eyes",
+        "path": "output/p6/images/26657_29257.png"
+      },
+      {
+        "start_ms": 34574,
+        "end_ms": 38954,
+        "prompt": "A young woman holding a blind stick, beginning to open her eyes, looking tense",
+        "path": "output/p6/images/34574_38954.png"
+      },
+      {
+        "start_ms": 39714,
+        "end_ms": 43114,
+        "prompt": "A dimly lit therapy room with a young woman slowly opening her eyes",
+        "path": "output/p6/images/39714_43114.png"
+      },
+      {
+        "start_ms": 43994,
+        "end_ms": 47354,
+        "prompt": "A blind person in a room, beginning to experience sight for the first time",
+        "path": "output/p6/images/43994_47354.png"
+      },
+      {
+        "start_ms": 47954,
+        "end_ms": 50254,
+        "prompt": "A young woman squinting her eyes, holding one hand up in front of her eyes in a dimly lit room",
+        "path": "output/p6/images/47954_50254.png"
+      },
+      {
+        "start_ms": 50934,
+        "end_ms": 53894,
+        "prompt": "TEXTs",
+        "path": "output/p6/images/50934_53894.png"
+      },
+      {
+        "start_ms": 55274,
+        "end_ms": 61214,
+        "prompt": "A young woman sitting in a therapy room, looking at her therapist with a calm expression",
+        "path": "output/p6/images/55274_61214.png"
+      },
+      {
+        "start_ms": 62034,
+        "end_ms": 63094,
+        "prompt": "A close-up of a middle-aged therapist man's soft, reassuring eyes, and soft smile",
+        "path": "output/p6/images/62034_63094.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 63943
+  },
+  {
+    "id": 7,
+    "script_path": "output/p7/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "A | 0 | 3020 |  I always felt that the creature that killed my parents was close,",
+      "A | 3820 | 6560 |  just waiting for me to open my eyes so I could watch",
+      "A | 7200 | 8380 |  as he ripped me apart.",
+      "A | 9046 | 10106 |  The fear was still there,",
+      "A | 10586 | 12346 |  but the room was empty apart from me",
+      "A | 12886 | 13466 |  and the therapist.",
+      "B | 14241 | 17021 |  \u201cI told you there was nothing to be scared of.\u201d",
+      "A | 17620 | 21140 |  I was about to rejoice in my newfound sense of sight",
+      "A | 21660 | 27540 |  when I was stopped dead in my tracks by the sound of growling coming from behind my therapist.",
+      "A | 28520 | 31760 |  A sound I had only heard once before when my parents were murdered."
+    ],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "I always felt that the creature that killed my parents was close, just waiting for me to open my eyes so I could watch as he ripped me apart.",
+        "speech_path": "output/p7/audio/0_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 3020,
+            "text": " I always felt that the creature that killed my parents was close,"
+          },
+          {
+            "start_ms": 3820,
+            "end_ms": 6560,
+            "text": " just waiting for me to open my eyes so I could watch"
+          },
+          {
+            "start_ms": 7200,
+            "end_ms": 8380,
+            "text": " as he ripped me apart."
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 9046
+      },
+      {
+        "speaker": "A",
+        "text": "The fear was still there, but the room was empty apart from me and the therapist.",
+        "speech_path": "output/p7/audio/1_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 1060,
+            "text": " The fear was still there,"
+          },
+          {
+            "start_ms": 1540,
+            "end_ms": 3300,
+            "text": " but the room was empty apart from me"
+          },
+          {
+            "start_ms": 3840,
+            "end_ms": 4420,
+            "text": " and the therapist."
+          }
+        ],
+        "start_ms": 9046,
+        "end_ms": 14241
+      },
+      {
+        "speaker": "B",
+        "text": "\u201cI told you there was nothing to be scared of.\u201d",
+        "speech_path": "output/p7/audio/2_B.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2780,
+            "text": " \u201cI told you there was nothing to be scared of.\u201d"
+          }
+        ],
+        "start_ms": 14241,
+        "end_ms": 17580
+      },
+      {
+        "speaker": "A",
+        "text": "I was about to rejoice in my newfound sense of sight when I was stopped dead in my tracks by the sound of growling coming from behind my therapist. A sound I had only heard once before when my parents were murdered.",
+        "speech_path": "output/p7/audio/3_A.wav",
+        "segments": [
+          {
+            "start_ms": 40,
+            "end_ms": 3560,
+            "text": " I was about to rejoice in my newfound sense of sight"
+          },
+          {
+            "start_ms": 4080,
+            "end_ms": 9960,
+            "text": " when I was stopped dead in my tracks by the sound of growling coming from behind my therapist."
+          },
+          {
+            "start_ms": 10940,
+            "end_ms": 14180,
+            "text": " A sound I had only heard once before when my parents were murdered."
+          }
+        ],
+        "start_ms": 17580,
+        "end_ms": 32472
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 3020,
+        "prompt": "A young woman with closed eyes and a blind stick, sitting tensely",
+        "path": "output/p7/images/0_3020.png"
+      },
+      {
+        "start_ms": 3820,
+        "end_ms": 6560,
+        "prompt": "A tense young woman imagining a creature watching her, ready to attack",
+        "path": "output/p7/images/3820_6560.png"
+      },
+      {
+        "start_ms": 7200,
+        "end_ms": 8380,
+        "prompt": "A young woman with closed eyes, tense posture, nervouse expression",
+        "path": "output/p7/images/7200_8380.png"
+      },
+      {
+        "start_ms": 9046,
+        "end_ms": 10106,
+        "prompt": "A dimly lit therapy room, empty except for the young woman and her therapist",
+        "path": "output/p7/images/9046_10106.png"
+      },
+      {
+        "start_ms": 10586,
+        "end_ms": 12346,
+        "prompt": "The young woman sitting alone with her therapist in a calm, serene therapist office",
+        "path": "output/p7/images/10586_12346.png"
+      },
+      {
+        "start_ms": 12886,
+        "end_ms": 13466,
+        "prompt": "A middle-aged therapist man with a calm demeanor",
+        "path": "output/p7/images/12886_13466.png"
+      },
+      {
+        "start_ms": 14241,
+        "end_ms": 17021,
+        "prompt": "A middle-aged therapist man with a gentle expression",
+        "path": "output/p7/images/14241_17021.png"
+      },
+      {
+        "start_ms": 17620,
+        "end_ms": 21140,
+        "prompt": "The young woman with open eyes and a relaxed expression, sitting in a therapist's office",
+        "path": "output/p7/images/17620_21140.png"
+      },
+      {
+        "start_ms": 21660,
+        "end_ms": 27540,
+        "prompt": "A sudden look of fear on a young woman's",
+        "path": "output/p7/images/21660_27540.png"
+      },
+      {
+        "start_ms": 28520,
+        "end_ms": 31760,
+        "prompt": "The young woman\u2019s face frozen in terror",
+        "path": "output/p7/images/28520_31760.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 32472
+  },
+  {
+    "id": 8,
+    "script_path": "output/p8/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "A | 0 | 2640 |  A feeling of intense dread overwhelmed me",
+      "A | 3220 | 5800 |  as I watched the same creature I was confronted with",
+      "A | 6400 | 8980 |  all those years ago creep up behind my therapist.",
+      "A | 9931 | 10911 |  It had the same red,",
+      "A | 11031 | 15171 |  hungry eyes as before and pounced before I had a chance to warn him.",
+      "A | 16801 | 20401 |  My therapist screamed in the same agonizing pain",
+      "A | 21321 | 23801 |  my parents made as he was ripped apart.",
+      "A | 24421 | 25061 |  When it was done,",
+      "A | 25621 | 26881 |  it trained its sights on me,",
+      "A | 27721 | 28921 |  and before it could get to me,",
+      "A | 29681 | 30781 |  I shut my eyes again."
+    ],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "A feeling of intense dread overwhelmed me as I watched the same creature I was confronted with all those years ago creep up behind my therapist.",
+        "speech_path": "output/p8/audio/0_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 2640,
+            "text": " A feeling of intense dread overwhelmed me"
+          },
+          {
+            "start_ms": 3220,
+            "end_ms": 5800,
+            "text": " as I watched the same creature I was confronted with"
+          },
+          {
+            "start_ms": 6400,
+            "end_ms": 8980,
+            "text": " all those years ago creep up behind my therapist."
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 9931
+      },
+      {
+        "speaker": "A",
+        "text": "It had the same red, hungry eyes as before and pounced before I had a chance to warn him.",
+        "speech_path": "output/p8/audio/1_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 980,
+            "text": " It had the same red,"
+          },
+          {
+            "start_ms": 1100,
+            "end_ms": 5240,
+            "text": " hungry eyes as before and pounced before I had a chance to warn him."
+          }
+        ],
+        "start_ms": 9931,
+        "end_ms": 16801
+      },
+      {
+        "speaker": "A",
+        "text": "My therapist screamed in the same agonizing pain my parents made as he was ripped apart. When it was done, it trained its sights on me, and before it could get to me, I shut my eyes again.",
+        "speech_path": "output/p8/audio/2_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 3600,
+            "text": " My therapist screamed in the same agonizing pain"
+          },
+          {
+            "start_ms": 4520,
+            "end_ms": 7000,
+            "text": " my parents made as he was ripped apart."
+          },
+          {
+            "start_ms": 7620,
+            "end_ms": 8260,
+            "text": " When it was done,"
+          },
+          {
+            "start_ms": 8820,
+            "end_ms": 10080,
+            "text": " it trained its sights on me,"
+          },
+          {
+            "start_ms": 10920,
+            "end_ms": 12120,
+            "text": " and before it could get to me,"
+          },
+          {
+            "start_ms": 12880,
+            "end_ms": 13980,
+            "text": " I shut my eyes again."
+          }
+        ],
+        "start_ms": 16801,
+        "end_ms": 31416
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 2640,
+        "prompt": "A young woman with closed eyes and a blind stick, with a horrified expression",
+        "path": "output/p8/images/0_2640.png"
+      },
+      {
+        "start_ms": 3220,
+        "end_ms": 5800,
+        "prompt": "The young woman watches in horror as a terrifying creature stands over behind her therapist",
+        "path": "output/p8/images/3220_5800.png"
+      },
+      {
+        "start_ms": 6400,
+        "end_ms": 8980,
+        "prompt": "A creature has red, hungry eyes",
+        "path": "output/p8/images/6400_8980.png"
+      },
+      {
+        "start_ms": 9931,
+        "end_ms": 15171,
+        "prompt": "The creature with glowing red eyes pounces on a middle aged man as a young woman watches in fear",
+        "path": "output/p8/images/9931_15171.png"
+      },
+      {
+        "start_ms": 16801,
+        "end_ms": 20401,
+        "prompt": "A middle aged therapist man on the ground, with a shadowy monster bending over him",
+        "path": "output/p8/images/16801_20401.png"
+      },
+      {
+        "start_ms": 21321,
+        "end_ms": 23801,
+        "prompt": "TEXT",
+        "path": "output/p8/images/21321_23801.png"
+      },
+      {
+        "start_ms": 24421,
+        "end_ms": 25061,
+        "prompt": "TEXT",
+        "path": "output/p8/images/24421_25061.png"
+      },
+      {
+        "start_ms": 25621,
+        "end_ms": 26881,
+        "prompt": "A horrifying shadowy creature with glowing red eyes",
+        "path": "output/p8/images/25621_26881.png"
+      },
+      {
+        "start_ms": 27721,
+        "end_ms": 28921,
+        "prompt": "A young woman with closed eyes sitting on a chair and holding her arms up to protet herself",
+        "path": "output/p8/images/27721_28921.png"
+      },
+      {
+        "start_ms": 29681,
+        "end_ms": 30781,
+        "prompt": "TEXT",
+        "path": "output/p8/images/29681_30781.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 31416
+  },
+  {
+    "id": 9,
+    "script_path": "output/p9/texts/script.txt",
+    "aligned_path": null,
+    "aligned_script": [
+      "A | 0 | 480 |  You see,",
+      "A | 1420 | 3760 |  it's not a fear of opening my eyes.",
+      "A | 4520 | 6560 |  It\u2019s the fear of what would happen if I did."
+    ],
+    "dialogs": [
+      {
+        "speaker": "A",
+        "text": "You see, it's not a fear of opening my eyes. It\u2019s the fear of what would happen if I did.",
+        "speech_path": "output/p9/audio/0_A.wav",
+        "segments": [
+          {
+            "start_ms": 0,
+            "end_ms": 480,
+            "text": " You see,"
+          },
+          {
+            "start_ms": 1420,
+            "end_ms": 3760,
+            "text": " it's not a fear of opening my eyes."
+          },
+          {
+            "start_ms": 4520,
+            "end_ms": 6560,
+            "text": " It\u2019s the fear of what would happen if I did."
+          }
+        ],
+        "start_ms": 0,
+        "end_ms": 7329
+      }
+    ],
+    "image_prompts": [
+      {
+        "start_ms": 0,
+        "end_ms": 480,
+        "prompt": "TEXT",
+        "path": "output/p9/images/0_480.png"
+      },
+      {
+        "start_ms": 1420,
+        "end_ms": 3760,
+        "prompt": "A young woman exits a room with a therapist title above the door",
+        "path": "output/p9/images/1420_3760.png"
+      },
+      {
+        "start_ms": 4520,
+        "end_ms": 6560,
+        "prompt": "TEXT",
+        "path": "output/p9/images/4520_6560.png"
+      }
+    ],
+    "speech_path": null,
+    "start_ms": 0,
+    "end_ms": 7329
+  }
+]
